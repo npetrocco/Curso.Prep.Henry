@@ -201,7 +201,6 @@ function tieneTresDigitos(numero){
   //Escribe tu código aquí
   if (numero > 99 && numero < 999) {
     return true;
-
 } return false;
 }
 
